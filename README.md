@@ -1,14 +1,14 @@
-# Welcome to Sayan Ghosh profile! <a href="#" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to Suva Ghosh <a href="#" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <h3 align="center">- 👀 I’m interested in DATA SCIENCE AND WEB DEVELOPER</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayan-ghosh8124&label=Profile%20views&color=0e75b6&style=flat" alt="sayan-ghosh8124" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suvaghosh&label=Profile%20views&color=0e75b6&style=flat" alt="Suvaghosh" /> </p>
 
 ### Talking about Personal Stuffs:
 
-- -👨‍🎓 I'm a ** CSE Student **
+- -👨‍🎓 I'm a ** IT Student **
   
 - - 🌱 I’m currently learning **C++ and PYTHON and DSA and DBMS**
 
@@ -16,14 +16,13 @@
   
 - - 👯 Join my community if you're a tech enthusiast
     
-- - 💞️ I’m looking to collaborate with **Google AND ORACLE**
 
-- - 📫 How to reach me: **sayan.ghosh8124@gmail.com**
+- - 📫 How to reach me: **suvaghosh180@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sayan-ghosh-3b7113366" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan ghosh" height="30" width="40" />
+  <a href="www.linkedin.com/in/suva-ghosh-8506372b8" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suva Ghosh" height="30" width="40" />
   </a>
 </p>
 
@@ -33,8 +32,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan-ghosh8124&show_icons=true&locale=en&layout=compact" alt="sayan-ghosh8124" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Suvaghosh&show_icons=true&locale=en&layout=compact" alt="Suvaghosh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan-ghosh8124&show_icons=true&locale=en" alt="sayan-ghosh8124" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-ghosh8124&" alt="sayan-ghosh8124" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Suvaghosh&show_icons=true&locale=en" alt="Suvaghosh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suvaghosh&" alt="Suvaghosh" /></p>
 
