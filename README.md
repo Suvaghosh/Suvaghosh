@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/suva-ghosh-8506372b8" target="_blank">
+  <a href="https://www.linkedin.com/in/suva-ghosh-8506372b8/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suva Ghosh" height="30" width="40" />
   </a>
 </p>
