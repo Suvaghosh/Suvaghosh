@@ -37,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Suvaghosh&show_icons=true&locale=en" alt="Suvaghosh" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suvaghosh&" alt="Suvaghosh" /></p>
 
+[![An image of @suva_ghosh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suva_ghosh)](https://holopin.io/@suva_ghosh)
